@@ -5,3 +5,9 @@ C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\obj\Release\Pru
 C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\obj\Release\PruebaThread1.pdb
 C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\bin\Release\PruebaThread1.exe.CodeAnalysisLog.xml
 C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\bin\Release\PruebaThread1.exe.lastcodeanalysissucceeded
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\bin\Release\PruebaThread1.exe.config
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\obj\Release\PruebaThread1.exe
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\obj\Release\PruebaThread1.pdb
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\bin\Release\PruebaThread1.exe
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\bin\Release\PruebaThread1.pdb
+C:\Users\alfonso\Documents\GitHub\cs_test\PruebaThread1\PruebaThread1\obj\Release\PruebaThread1.csprojResolveAssemblyReference.cache
