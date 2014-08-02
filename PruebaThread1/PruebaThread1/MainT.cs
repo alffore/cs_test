@@ -21,8 +21,8 @@ namespace PruebaThread1
                 dato_n[i] = r.Next(1, 100000000);
             }
 
-            creaT();
-            creaMT();
+           // creaT();
+           //creaMT();
             creaMT2();
         }
 
