@@ -56,7 +56,7 @@ namespace PruebaThread1
         }
 
 
-
+        // esta tarea procesa el array completo
         public void hasTrabajo2()
         {
             for (int j = 0; j < numt; j++)
