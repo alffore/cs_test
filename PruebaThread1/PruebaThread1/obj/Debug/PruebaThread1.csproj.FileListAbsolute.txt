@@ -1,0 +1,12 @@
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.exe.config
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.exe
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.pdb
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.csprojResolveAssemblyReference.cache
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.exe
+c:\users\alfonso\documents\visual studio 2013\Projects\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.pdb
+C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.exe.config
+C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.exe
+C:\Users\alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.pdb
+C:\Users\Alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.exe
+C:\Users\Alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\bin\Debug\PruebaThread1.pdb
+C:\Users\Alfonso\Dropbox\devel\ricky\PruebaThread1\PruebaThread1\obj\Debug\PruebaThread1.csprojResolveAssemblyReference.cache
